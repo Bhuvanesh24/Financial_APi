@@ -10,8 +10,8 @@ This project is aimed at building an API using the Django framework to facilitat
 1. **Clone the Repository:**
 
 2. **Install Dependencies:**
-cd api
-pip install -r requirements.txt
+  - cd api
+  -  pip install -r requirements.txt
 
 3. **Populate MySQL Database:**
 - Start XAMPP and ensure that the MySQL server is running.
